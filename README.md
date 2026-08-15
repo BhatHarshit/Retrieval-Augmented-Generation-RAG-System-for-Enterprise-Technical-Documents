@@ -1,5 +1,5 @@
 # Retrieval-Augmented-Generation-RAG-System-for-Enterprise-Technical-Documents(work in orogress)
-This directly matches:( again work on that as much as u can  )
+This directly matches:
 progress continue tomorrow 
 RAG
 
