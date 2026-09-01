@@ -1,6 +1,6 @@
 # Retrieval-Augmented-Generation-RAG-System-for-Enterprise-Technical-Documents(work in orogress)
 This directly matches:
-progress continue with further progress
+progress continue with further updates
 RAG
 
 LLM orchestration
